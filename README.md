@@ -9,3 +9,7 @@ Job Police V2 full RageUI :)
 - Menu chien
 - Menu soutien police
 - Mise a jour a l'armurerie de la police
+
+Requirements :
+
+- [fFouille](https://github.com/fellow25/fFouille)
