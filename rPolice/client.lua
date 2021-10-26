@@ -134,7 +134,6 @@ function Menuf6police()
             RageUI.ButtonWithStyle("Interagir avec le citoyen",nil, {RightLabel = "→"}, true, function(Hovered, Active, Selected)
                 if Selected then                
                     TriggerEvent('fellow:MenuFouille')
-                    RageUI.CloseAll()
                 end
             end)
 
